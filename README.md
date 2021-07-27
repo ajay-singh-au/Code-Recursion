@@ -37,14 +37,17 @@
 <br/>
 <br/>
 
-I am an Admiring Full Stack Web Developer and a Beginner in Competitive Programming living in India. I'm a pre-final year Student pursuing B.Tech with Information and Technology stream currently graded in 5th Semester.
+I am a final year Student pursuing B.Tech with Information and Technology stream currently graded in 7th Semester and an Admiring Full Stack Web Developer living in India
 
 - Portfolio Website : https://helloajaysingh.me
 - Reach out to me here : helloajaysingh1@gmail.com
 
+### Experience 
+* Software Development Intern at Accolite Digital.
+* Ex Web Development Intern at RMGX Technologies.
 ### Achievements and Position of Responsibilities :
 * Google Developer Student Clubs Lead at BIST, Bhopal.
-* Microsoft Student Partner - Beta.
+* Microsoft Learn Student Ambassador - Beta.
 * Google Cloud Facilitator at BIST, Bhopal.
 
 
@@ -54,10 +57,14 @@ I am an Admiring Full Stack Web Developer and a Beginner in Competitive Programm
 <code><img height="30" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"></code>
 <code><img height="30" src="https://img.icons8.com/color/48/000000/javascript.png"></code>
 <code><img height="30" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png"></code>
-<code><img height="30" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png"></code>
+<code><img height="30" src="https://seeklogo.com/images/N/nodejs-logo-065257DE24-seeklogo.com.png"></code>
+<code><img height="30" src="https://seeklogo.com/images/E/express-js-logo-FA36FF1D3F-seeklogo.com.png"></code>
+<code><img height="30" src="https://seeklogo.com/images/M/mongodb-logo-4A71340576-seeklogo.com.png"></code>
+
 <code><img height="30" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="30" src="https://seeklogo.com/images/G/git-logo-F4A93DAA20-seeklogo.com.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+
 
 ![Ajay's github stats](https://github-readme-stats.vercel.app/api?username=code-recursion&count_private=true)
 
